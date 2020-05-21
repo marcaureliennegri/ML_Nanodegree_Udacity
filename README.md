@@ -1,8 +1,10 @@
 # UDACITY NANODEGREE
 ## Intro to Machine Learning with PyTorch
 The ultimate goal of the Intro to Machine Learning with PyTorch Nanodegree program is to help students learn machine learning techniques such as data transformation and algorithms that can find patterns in data and apply machine learning algorithms to tasks of their own design.
-1. Introduction to Machine Learning
-2. Supervised Learning
+
+1. **Introduction to Machine Learning**
+
+2. **Supervised Learning**
 + Regression
 + Perceptron Algorithms
 + Decision Trees
@@ -11,12 +13,14 @@ The ultimate goal of the Intro to Machine Learning with PyTorch Nanodegree progr
 + Ensemble of Learners
 + Evaluation Metrics
 + Training and Tuning Models
-3. Deep Learning with PyTorch
+
+3. **Deep Learning with PyTorch**
 + Introduction to Neural Networks
 + Implementing Gradient Descent
 + Training Neural Networks
 + Deep Learning with PyTorch
-4. Unsupervised Learning
+
+4. **Unsupervised Learning**
 + Clustering
 + Hierarchical and Density-Based Clustering
 + Gaussian Mixture Models
