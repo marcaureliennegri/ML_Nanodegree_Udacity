@@ -1,0 +1,2 @@
+# Example of a `.gitattributes` file which reclassifies 'html" files as Jupyter Notebook:
+*.html linguist-language=Jupyter Notebook
